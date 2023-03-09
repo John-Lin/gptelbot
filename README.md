@@ -1,1 +1,9 @@
 # gptelbot
+
+## Usage
+
+```bash
+export GPTELBOT_OPENAITOKEN=<MY_OPENAPI_TOKEN>
+export GPTELBOT_TELEGRAMTOKEN=<MY_TELEGRAM_TOKEN>
+export GPTELBOT_CHATID=<MY_CHAT_ID>
+```
